@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rimly | LOYALTY-SECU
 
-<!--
-**LOYALTY-SECU/LOYALTY-SECU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B2B Security Camera & Smart Hardware Solutions
 
-Here are some ideas to get you started:
+I work with **LOYALTY-SECU**, a Shenzhen-based manufacturer specializing in professional surveillance, security and IoT hardware solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Product Areas
+
+- **PTZ Cameras**
+- **Solar Power Kits for Surveillance Cameras**
+- **ANPR Camera Solutions**
+- **Construction Machinery Safety Systems**
+- **Cloud Printing Solutions**
+- **Other Security & IoT Products**
+
+We focus on hardware development, firmware integration and customized solutions for system integrators, distributors and project-based applications.
+
+### Website
+
+[LOYALTY-SECU](https://loyalty-secu.com)
